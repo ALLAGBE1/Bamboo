@@ -1,0 +1,14 @@
+{
+  "cSpell.diagnosticLevel": "Hint",
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    "editor.formatOnSave": true
+  },
+  "cSpell.words": [
+    "Emum"
+  ],
+}
